@@ -1,10 +1,5 @@
-/* * {
-    box-sizing: border-box;
-    height: 100%;
-} */
 
 * {
-  /* box-sizing: border-box; */
   height: 100%;
   color: white;
   }
@@ -30,10 +25,17 @@
 #skills-css{
   flex: 0 0 10%;
   margin: 5px 5px 5px 5px;
-  align-items: flex-end;
   text-align: center;
   color: #fff;
   background-color: #2196F3;
+}
+
+#skills-html{
+  flex: 0 0 10%;
+  margin: 5px 5px 5px 5px;
+  text-align: center;
+  color: #fff;
+  background-color: #21f34f;
 }
 
 #textskills{
